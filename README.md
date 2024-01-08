@@ -35,3 +35,22 @@ Backend: Node.js and Express.js
 Database: MongoDB for efficient data storage
 
 Authentication: Implement secure user authentication for account creation and login, including email OTP authentication
+
+
+Hosting the Website
+
+To host your CineInsight website for public access, follow these steps:
+
+Choose a hosting provider: Options include platforms like Heroku, AWS, or Vercel.
+
+Set up a production-ready MongoDB database and update your .env file with the new connection URI.
+
+Configure environment variables on your hosting platform, including MongoDB URI and any other necessary configurations.
+
+Deploy your code to the hosting platform. This process varies depending on the platform you choose.
+
+Once deployed, your CineInsight website will be accessible at the provided URL.
+
+Contributing
+
+We welcome contributions to make CineInsight even better. Feel free to open issues, submit pull requests, or provide feedback. Happy browsing!
